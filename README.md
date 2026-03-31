@@ -55,8 +55,11 @@ Soy desarrollador de software Full Stack especializado en .NET. Me apasiona el m
 
 ## 🚀 Proyectos y Experiencia Destacada
 -Mantenimiento de sistemas corporativos (3 años): Responsable del mantenimiento y optimización del sistema operativo y aplicaciones   internas de la empresa.
+
 -Desarrollo y mantenimiento web: Implementación de soluciones web utilizando C#, JavaScript, HTML, Bootstrap, CSS aplicando MVC y Modelo de 3 capas.
+
 -Creación de plantillas para apps móviles: Desarrollo de plantillas reutilizables para aplicaciones móviles, facilitando el diseño y la funcionalidad de nuevas apps.
+
 -Diplomado en Desarrollo de Videojuegos: Formación especializada en diseño, programación y desarrollo de videojuegos, con enfoque práctico en Unity y Blender.
 
 ## ⚡ Intereses
