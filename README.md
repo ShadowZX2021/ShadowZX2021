@@ -25,6 +25,7 @@ Soy desarrollador de software Full Stack especializado en .NET. Me apasiona el m
 ### 🗄️ Bases de Datos
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+-RedGate Sql
 
 ---
 
