@@ -32,8 +32,6 @@ Soy desarrollador de software Full Stack especializado en .NET. Me apasiona el m
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- SCRUM  
-
 ---
 
 ### 🎮 GameDev & 3D
