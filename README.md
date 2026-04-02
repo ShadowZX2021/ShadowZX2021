@@ -67,7 +67,7 @@ Soy desarrollador de software Full Stack especializado en .NET. Me apasiona el m
 
 * Deportes
 * Desarrollo de Videojuegos
-* Desarr Web
+* Desarrollo Web
 * Cine
 * Libros de fantasía
 
